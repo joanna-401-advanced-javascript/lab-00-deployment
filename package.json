@@ -10,12 +10,13 @@
     "test-watch": "jest --watchAll --verbose --coverage",
     "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
   },
-  "author": "John Cokos",
+  "author": "Joanna Arroyo",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^6.1.0",
     "eslint-plugin-react": "^7.14.3",
-    "jest": "^24.8.0"
+    "jest": "^24.8.0",
+    "jsdoc": "^3.6.3"
   },
   "dependencies": {
     "express": "^4.17.1"
